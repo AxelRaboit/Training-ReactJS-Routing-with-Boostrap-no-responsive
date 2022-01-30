@@ -1,0 +1,16 @@
+.container__nav {
+    height: 80px;
+}
+
+.brand-logo {
+    width: 70px;
+}
+
+.nav__item {
+    margin-right: 20px;
+    transition: 0.3s;
+}
+
+.nav__item:hover {
+    color: white;
+}
